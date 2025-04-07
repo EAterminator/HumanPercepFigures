@@ -13,7 +13,7 @@
 |          1   |          0.539029 |         0.756228 |            1        |
 
 # Table 2
-|   current_ratio |   Pre-fine-tune Accuracy |   Post-fine-tune Accuracy |   relative_accuracy |
+|   data_ratio |   Pre-fine-tune Accuracy |   Post-fine-tune Accuracy |   relative_accuracy |
 |----------------:|-------------------------:|--------------------------:|--------------------:|
 |             0.1 |                  0.75626 |                  0.786135 |            0.642013 |
 |             0.2 |                  0.75626 |                  0.791237 |            0.751661 |
